@@ -1,9 +1,15 @@
 package Basics;
 
 public class Student {
-	public static void main(String[] args) {
-		//This is my entry point 
+	
+	public Student() {
+		//Constructor
 		
-		System.out.println("I am in student class");
+		
+	}
+	
+	public void getStudentsData()
+	{
+		
 	}
 }
